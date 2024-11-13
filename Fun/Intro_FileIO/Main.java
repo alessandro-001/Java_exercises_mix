@@ -7,19 +7,19 @@ public class Main {
 		  FileWriter out = new FileWriter("myfile.txt");
 		  
 		  //print out
-//		  out.write("Today is gonna be the day\n");
-//		  out.write(System.lineSeparator());
-//		  out.write("That they're gonna throw it back to you\n");
-//		  out.write(System.lineSeparator());
-//		  out.write("By now you should've somehow\n");
-//		  out.write(System.lineSeparator());
-//		  out.write("Realized what you gotta do\n");
-//		  out.write(System.lineSeparator());
-//		  out.write("I don't believe that anybody\n");
-//		  out.write(System.lineSeparator());
-//		  out.write("Feels the way I do about you now\n");
-//		  out.write(System.lineSeparator());
-//		  out.close();
+		  out.write("Today is gonna be the day");
+		  out.write(System.lineSeparator());
+		  out.write("That they're gonna throw it back to you");
+		  out.write(System.lineSeparator());
+		  out.write("By now you should've somehow");
+		  out.write(System.lineSeparator());
+		  out.write("Realized what you gotta do");
+		  out.write(System.lineSeparator());
+		  out.write("I don't believe that anybody");
+		  out.write(System.lineSeparator());
+		  out.write("Feels the way I do about you now");
+		  out.write(System.lineSeparator());
+		  //out.close();
 		  
 		  //print out name in ascii
 		  out.write(65);
