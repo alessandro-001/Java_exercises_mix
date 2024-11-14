@@ -32,17 +32,6 @@ public class Writer {
 				}
 			}
 			out.close();
-		    
-//			if (data.size() == 0) {
-//				String str = sc.nextLine();
-//				data.add(str);
-//				System.out.println("After input: " + data);
-//			} 
-//			if (data.size() > 0) {
-//				String str = sc.nextLine();
-//				data.add(str);
-//				System.out.println("After input: " + data);
-//			}
 
 		} catch (IOException ex) {
 			ex.printStackTrace();
